@@ -5,6 +5,7 @@
 .DESCRIPTION
     - Lists live SQL databases
     - Optional name filtering
+    - Copies backup files from a network location
     - Extracts .rar and .zip files automatically
     - Verifies and restores backups
     - Logs all operations in UTF-8
